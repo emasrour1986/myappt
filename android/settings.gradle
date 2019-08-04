@@ -1,0 +1,3 @@
+rootProject.name = 'myappt'
+
+include ':app'
